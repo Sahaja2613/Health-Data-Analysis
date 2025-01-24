@@ -11,6 +11,8 @@ A Healthcare Data Analyst extremely determined to transform health data into act
 
 #### a. EHR dataset - Cancer Diagnosis:
 
+Code: [EHR data Analysis](https://github.com/Sahaja2613/Portfolio-projects/blob/main/EHR%20Data.sql)
+
 Goal: To demonstrate proficiency in data wrangling, data exploration, and advanced SQL querying techniques applied to EHR data. To provide meaningful insights related to cancer diagnoses, patient demographics, diagnostic methods, and treatment outcomes.
 
 Description: The EHR dataset - cancer diagnosis from Kaggle is a dataset containing clinical records of cancer diagnoses. The dataset typically includes information such as patient demographics, cancer type, diagnostic methods, treatment protocols, and outcomes. It may also contain other healthcare-related details like age, gender, region, survival status, and diagnostic date. It gives information about Cancer diagnosis and treatment outcomes.
