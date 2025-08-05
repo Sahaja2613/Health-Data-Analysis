@@ -7,6 +7,15 @@ I'm Sahaja, a Healthcare Data Analyst extremely determined to transform health d
 
 ## Portfolio Projects:
 
+### 1. Healthcare Revenue Cycle Management (RCM) Analytics:
+
+Code: RCM_Data_Analysis.ipynb
+
+Goal: To Develop a comprehensive Revenue Cycle Management analytics solution to optimize Medicare payment processes, reduce revenue leakage, and enhance operational efficiency across a $839M+ healthcare revenue portfolio. This project demonstrates end-to-end RCM analytics capabilities including contract performance analysis, pricing optimization, denial management, and provider network strategy.
+
+Descrition: This project presents a complete Medicare Revenue Cycle Management transformation initiative addressing critical healthcare financial challenges through advanced data analytics and strategic optimization. The analysis encompasses the entire revenue cycle from patient registration through final payment collection, identifying systematic inefficiencies and implementing data-driven solutions to maximize revenue recovery and operational performance.
+
+Skills Used: EXCEL, Python, ML Techniques, Statistics, Tableau.
 ### 2. EHR dataset - Cancer Diagnosis:
 
 Code: [EHR data Analysis.sql](https://github.com/Sahaja2613/Portfolio-projects/blob/main/EHR%20Data.sql)
