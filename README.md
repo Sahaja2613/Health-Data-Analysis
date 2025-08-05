@@ -7,9 +7,7 @@ I'm Sahaja, a Healthcare Data Analyst extremely determined to transform health d
 
 ## Portfolio Projects:
 
-### SQL:
-
-#### a. EHR dataset - Cancer Diagnosis:
+### 2. EHR dataset - Cancer Diagnosis:
 
 Code: [EHR data Analysis.sql](https://github.com/Sahaja2613/Portfolio-projects/blob/main/EHR%20Data.sql)
 
@@ -19,7 +17,7 @@ Description: The EHR dataset - cancer diagnosis from Kaggle is a dataset contain
 
 Skills Used: SQL.
 
-#### b. Patient Health Sample Data:
+### 3. Patient Health Sample Data:
 
 Code: [Patient data analysis.sql](https://github.com/Sahaja2613/Portfolio-projects/blob/main/Patient%20Data%20Analysis.sql)
 
@@ -29,9 +27,8 @@ Description: Analyze patient data, address its challenges by showing performance
 
 Skills Used: SQL Advanced queries
 
-### Python:
 
-#### Prediction of Hospital Readmissions using Patient data:
+### 4. Prediction of Hospital Readmissions using Patient data:
 
 Code: [HRRP.py](https://github.com/Sahaja2613/Portfolio-projects/blob/main/HRRP.py)
 
@@ -41,9 +38,8 @@ Description: The Hospital Readmissions Reduction Program (HRRP) dataset from dat
 
 Skills used: Data Analysis Libraries: Pandas, NumPy, Scikit-learn, Matplotlib and Seaborn. Modeling Algorithms: Logistic Regression, Random Forest, Cross-validation.
 
-### R Programming:
 
-#### U.S. Chronic Disease Indicators (CDI):
+### 5. U.S. Chronic Disease Indicators (CDI):
 
 Code: [CDI.R](https://github.com/Sahaja2613/Portfolio-projects/blob/main/Chronic%20Disease%20Indicators.R)
 
@@ -53,9 +49,8 @@ Description: This dataset encompasses a variety of chronic conditions, including
 
 Skills Used: R programming.
 
-### SAS:
 
-#### Gene Mutations Identified in Blood Samples:
+### 6. Gene Mutations Identified in Blood Samples:
 
 Code: [Gene Mutations.sas](https://github.com/Sahaja2613/Portfolio-projects/blob/main/Gene.sas)
 
