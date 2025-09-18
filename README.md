@@ -5,6 +5,9 @@
 
 I'm Sahaja, a Healthcare Data Analyst extremely determined to transform health data into actionable insights that impact Clinical decision making, patient outcomes and optimize healthcare operations using advanced analytical experience like SQL, Python, SAS and R programming. With deeper understanding of healthcare delivery systems, clinical research, EHR, claims data and population health with integration of statistical analysis, predictive analysis and data visualization help to support strategic initiatives in healthcare settings. With an enthusiasm to continues learning in health data analysis, I will ensure to contribute to developments in healthcare quality, efficacy and patient safety.
 
+## Medium Blog Posts: 
+http://medium.com/@Sahajathumma
+
 ## Portfolio Projects:
 
 ### 1. [Healthcare Revenue Cycle Management (RCM) Analytics:](https://github.com/Sahaja2613/RCM-Data-Analysis.git)
